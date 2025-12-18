@@ -1,0 +1,3 @@
+node_modules/  //Huge file, can be installed using npm install
+
+.env  // secrets
